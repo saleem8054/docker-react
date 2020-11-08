@@ -8,7 +8,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello Everyone to my first ever React App.
           This application is hosted on AWS ElasticBeanStalk
         </p>
         <a
